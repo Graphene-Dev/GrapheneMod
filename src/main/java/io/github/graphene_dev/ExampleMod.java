@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package io.github.graphene_dev;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
