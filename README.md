@@ -1,4 +1,5 @@
-
+[![CodeFactor](https://www.codefactor.io/repository/github/graphene-dev/graphenemod/badge)](https://www.codefactor.io/repository/github/graphene-dev/graphenemod)
+#Graphene Mod (WIP)
 Source installation information for modders
 -------------------------------------------
 This code follows the Minecraft Forge installation methodology. It will apply
